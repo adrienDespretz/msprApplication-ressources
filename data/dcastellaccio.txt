@@ -11,4 +11,3 @@ gants
 brassard
 cyno
 taser
-lacrymo
