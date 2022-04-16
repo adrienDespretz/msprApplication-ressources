@@ -10,5 +10,3 @@ taser
 cyno
 gants
 menottes
-lacrymo
-lampe
