@@ -8,3 +8,4 @@ brassard
 cyno
 kit
 lacrymo
+talky
