@@ -7,4 +7,3 @@ menottes
 taser
 lampe
 talky
-gants
