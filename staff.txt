@@ -7,7 +7,6 @@ zthatcher
 bstinson
 staffrey
 klassen
-anollet
 rchevalier
 mpetris
 ebratcher
